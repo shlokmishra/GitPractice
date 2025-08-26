@@ -2,4 +2,6 @@
 
 Learning GitHub once again
 
-Statisics can be dull but (What?)
+Statisics can be dull but
+
+it has its moments
